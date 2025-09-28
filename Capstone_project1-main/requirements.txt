@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+python-multipart # Required for form data handling in FastAPI (though not used in this specific endpoint, it's a common dependency)
